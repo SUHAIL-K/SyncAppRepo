@@ -1,4 +1,4 @@
-# Sync App – Staff Performance Evaluation System
+<img width="1080" height="2412" alt="Screenshot_2026-05-27-14-47-23-88_c6cc9b7b4f38cb1af0af88dc32f89b69 jpg" src="https://github.com/user-attachments/assets/98dbc411-95bc-4961-9515-9a1788d8b7a9" /># Sync App – Staff Performance Evaluation System
 
 ## Overview
 
@@ -89,20 +89,25 @@ Web Dashboard (React.js + Next.js)
 ## Mobile Application
 
 ### Login Screen
+<img width="1080" height="2412" alt="Screenshot_2026-05-27-14-47-23-88_c6cc9b7b4f38cb1af0af88dc32f89b69 jpg" src="https://github.com/user-attachments/assets/59789b92-17a9-42fb-bc9e-a246cf266e1d" />
 
-Add Screenshot Here
 
 ### Dashboard
 
-Add Screenshot Here
+<img width="1080" height="2412" alt="Screenshot_2026-05-27-14-49-46-15_c6cc9b7b4f38cb1af0af88dc32f89b69 jpg" src="https://github.com/user-attachments/assets/c3fc6e2f-3bd7-4aa9-8112-8feea31c90c8" />
+
 
 ### Staff Performance Screen
 
-Add Screenshot Here
+<img width="1080" height="2412" alt="Screenshot_2026-05-27-15-00-50-85_a0d93f59e733262dfe32e59fb9c32c47 jpg" src="https://github.com/user-attachments/assets/5a3b926c-2ff1-4f7f-ab47-3eeaf93aa44d" />
+<img width="1080" height="2412" alt="Screenshot_2026-05-27-15-01-14-17_a0d93f59e733262dfe32e59fb9c32c47 jpg" src="https://github.com/user-attachments/assets/e2262721-c8a6-48e9-9a99-90c7b28b5ab3" />
+
 
 ### Reports Section
 
-Add Screenshot Here
+<img width="1080" height="2412" alt="Screenshot_2026-05-27-15-00-35-32_a0d93f59e733262dfe32e59fb9c32c47 jpg" src="https://github.com/user-attachments/assets/be0cbd36-951a-453a-bbea-c32e56964049" />
+<img width="1080" height="2412" alt="Screenshot_2026-05-27-15-00-42-80_a0d93f59e733262dfe32e59fb9c32c47 jpg" src="https://github.com/user-attachments/assets/4a42167c-b0e7-4bd9-837a-06b3fd7b3cc9" />
+
 
 ---
 
@@ -110,31 +115,26 @@ Add Screenshot Here
 
 ### Admin Dashboard
 
-Add Screenshot Here
+<img width="1892" height="898" alt="image" src="https://github.com/user-attachments/assets/77d8d71f-fef3-4701-a70f-ec14cf7c3fc8" />
+<img width="1888" height="900" alt="image" src="https://github.com/user-attachments/assets/eae50068-baa2-41ba-877c-b283d48556bc" />
+
 
 ### Staff Analytics
 
-Add Screenshot Here
+<img width="1871" height="895" alt="image" src="https://github.com/user-attachments/assets/701cb2f7-a0c0-4df9-aba7-5a619dfad133" />
+<img width="1888" height="891" alt="image" src="https://github.com/user-attachments/assets/6811f123-da7d-4448-826f-95bad5116389" />
+
+
 
 ### Performance Reports
 
-Add Screenshot Here
+<img width="1846" height="902" alt="image" src="https://github.com/user-attachments/assets/45f15ee4-0b5c-4954-87f3-c29215b966a5" />
 
 ### Activity Monitoring
 
-Add Screenshot Here
+<img width="1868" height="900" alt="image" src="https://github.com/user-attachments/assets/95d9872d-31c9-4f8d-a860-d31785dff116" />
+<img width="1868" height="895" alt="image" src="https://github.com/user-attachments/assets/cf4cc47b-be7e-4dcd-8a26-a036408e909c" />
 
----
-
-# Demo Video
-
-Add your demo video link here:
-
-```text
-https://your-demo-video-link
-```
-
-> Note: Sensitive organizational data has been hidden or blurred in demo videos and screenshots.
 
 ---
 
