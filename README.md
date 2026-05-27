@@ -1,4 +1,4 @@
-<img width="1080" height="2412" alt="Screenshot_2026-05-27-14-47-23-88_c6cc9b7b4f38cb1af0af88dc32f89b69 jpg" src="https://github.com/user-attachments/assets/98dbc411-95bc-4961-9515-9a1788d8b7a9" /># Sync App – Staff Performance Evaluation System
+Performance Evaluation System
 
 ## Overview
 
@@ -89,7 +89,7 @@ Web Dashboard (React.js + Next.js)
 ## Mobile Application
 
 ### Login Screen
-<img width="1080" height="2412" alt="Screenshot_2026-05-27-14-47-23-88_c6cc9b7b4f38cb1af0af88dc32f89b69 jpg" src="https://github.com/user-attachments/assets/59789b92-17a9-42fb-bc9e-a246cf266e1d" />
+<img width="600" height="1340" alt="Screenshot_2026-05-27-14-47-23-88_c6cc9b7b4f38cb1af0af88dc32f89b69 jpg" src="https://github.com/user-attachments/assets/59789b92-17a9-42fb-bc9e-a246cf266e1d" />
 
 
 ### Dashboard
