@@ -94,19 +94,19 @@ Web Dashboard (React.js + Next.js)
 
 ### Dashboard
 
-<img width="1080" height="2412" alt="Screenshot_2026-05-27-14-49-46-15_c6cc9b7b4f38cb1af0af88dc32f89b69 jpg" src="https://github.com/user-attachments/assets/c3fc6e2f-3bd7-4aa9-8112-8feea31c90c8" />
+<img width="600" height="1340" alt="Screenshot_2026-05-27-14-49-46-15_c6cc9b7b4f38cb1af0af88dc32f89b69 jpg" src="https://github.com/user-attachments/assets/c3fc6e2f-3bd7-4aa9-8112-8feea31c90c8" />
 
 
 ### Staff Performance Screen
 
-<img width="1080" height="2412" alt="Screenshot_2026-05-27-15-00-50-85_a0d93f59e733262dfe32e59fb9c32c47 jpg" src="https://github.com/user-attachments/assets/5a3b926c-2ff1-4f7f-ab47-3eeaf93aa44d" />
-<img width="1080" height="2412" alt="Screenshot_2026-05-27-15-01-14-17_a0d93f59e733262dfe32e59fb9c32c47 jpg" src="https://github.com/user-attachments/assets/e2262721-c8a6-48e9-9a99-90c7b28b5ab3" />
+<img width="600" height="1340" alt="Screenshot_2026-05-27-15-00-50-85_a0d93f59e733262dfe32e59fb9c32c47 jpg" src="https://github.com/user-attachments/assets/5a3b926c-2ff1-4f7f-ab47-3eeaf93aa44d" />
+<img width="600" height="1340" alt="Screenshot_2026-05-27-15-01-14-17_a0d93f59e733262dfe32e59fb9c32c47 jpg" src="https://github.com/user-attachments/assets/e2262721-c8a6-48e9-9a99-90c7b28b5ab3" />
 
 
 ### Reports Section
 
-<img width="1080" height="2412" alt="Screenshot_2026-05-27-15-00-35-32_a0d93f59e733262dfe32e59fb9c32c47 jpg" src="https://github.com/user-attachments/assets/be0cbd36-951a-453a-bbea-c32e56964049" />
-<img width="1080" height="2412" alt="Screenshot_2026-05-27-15-00-42-80_a0d93f59e733262dfe32e59fb9c32c47 jpg" src="https://github.com/user-attachments/assets/4a42167c-b0e7-4bd9-837a-06b3fd7b3cc9" />
+<img width="600" height="1340" alt="Screenshot_2026-05-27-15-00-35-32_a0d93f59e733262dfe32e59fb9c32c47 jpg" src="https://github.com/user-attachments/assets/be0cbd36-951a-453a-bbea-c32e56964049" />
+<img width="600" height="1340" alt="Screenshot_2026-05-27-15-00-42-80_a0d93f59e733262dfe32e59fb9c32c47 jpg" src="https://github.com/user-attachments/assets/4a42167c-b0e7-4bd9-837a-06b3fd7b3cc9" />
 
 
 ---
